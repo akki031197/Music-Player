@@ -30,9 +30,10 @@ This is a simple music player web application built using HTML, CSS, and JavaScr
 ## Project Structure
 
 - `index.html`: The main HTML file that includes the structure of the music player.
-- `css/styles.css`: The CSS file for styling the music player.
-- `js/script.js`: The JavaScript file that handles the music player functionality.
+- `/styles.css`: The CSS file for styling the music player.
+- `/script.js`: The JavaScript file that handles the music player functionality.
 - `audio`: A directory to store your audio files.
+- `images`: A directory to images.
 
 ## Contributing
 
